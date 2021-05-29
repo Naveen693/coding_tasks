@@ -1,0 +1,7 @@
+*.class
+*.iml
+*.project
+target/
+.classpath
+.factorypath
+.settings/
